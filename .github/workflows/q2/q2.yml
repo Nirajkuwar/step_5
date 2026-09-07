@@ -1,4 +1,4 @@
-name: CI
+name: value
 on: push
 jobs:
   lint:
